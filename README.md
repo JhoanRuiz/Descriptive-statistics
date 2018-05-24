@@ -13,3 +13,11 @@
 #### 1.4.3 Distribución de frecuencias por intervalos
 #### 1.4.3 Distribución de frecuencias acumuladas
 #### 1.4.4 Gráficas estadísticas
+## Capítulo 2: Medidas de posición
+### 2.1 Introducción
+### 2.2 Mediana
+### 2.3 Moda
+### 2.4 Media aritmética
+### 2.5 Relación entre media, mediana y moda
+### 2.6 Otras medias
+## Capítulo 3: Medidas de dispersión
