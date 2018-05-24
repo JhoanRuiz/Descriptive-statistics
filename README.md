@@ -1,3 +1,4 @@
+<img src = "https://kmurphy.bitbucket.io/modules/Statistics_and_Probability/topics/02-Descriptive_Statistics/.topic.png"> </img>
 # Estadística Descriptiva
 ## Es un curso de estadística descriptiva básico en R.
 ## Contenido
@@ -29,4 +30,4 @@
 #### 3.2.4 Coeficiente de variación
 #### 3.2.5 Uso de las medidas de variación
 #### 3.2.6 Propiedades de la varianza
-<img src = "https://kmurphy.bitbucket.io/modules/Statistics_and_Probability/topics/02-Descriptive_Statistics/.topic.png"> </img>
+
