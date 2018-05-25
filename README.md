@@ -31,3 +31,4 @@
 #### 3.2.5 Uso de las medidas de variación
 #### 3.2.6 Propiedades de la varianza
 
+$x_{2}$
