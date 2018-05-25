@@ -30,5 +30,3 @@
 #### 3.2.4 Coeficiente de variación
 #### 3.2.5 Uso de las medidas de variación
 #### 3.2.6 Propiedades de la varianza
-
-
